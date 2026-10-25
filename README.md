@@ -29,4 +29,4 @@ Some of the tools I found useful were Java Keytool, Maven, and OWASP Dependency-
 This project demonstrates my ability to review an application for security vulnerabilities, make improvements to its code, and test the results. It also shows that I can document my work and identify security problems that still need attention. These are skills I can continue building as I work toward becoming a software developer. 
 
 
-[View My Completed Security Report](Artemis_Financial_Secure_Software_Report.pdf)
+[Completed Security Report](Artemis_Financial_Secure_Software_Report.pdf)
